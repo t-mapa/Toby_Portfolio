@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# IBM Data Science Professional Course: Applied-Data-Science-Capstone
 
-You can use the [editor on GitHub](https://github.com/t-mapa/Toby_Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## SpaceX's Falcon 9 A data analysis, visualization, and machine learning model development for on SpaceX's Falcon 9 launches
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Presented EDA with visualization and SQL
+- Created interactive visual analytics
+- Created interactive map with Folium
+- Created Plotly Dash dashboard
+- Conducted predictive analysis (classification)
 
-### Markdown
+# Visualizing-COVID-19
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##
+Visualize COVID-19 data from the first several weeks of the outbreak to see at what point the virus became a global pandemic; studying how country-wide policies (e.g. shutdowns and quarantines) affect the virus, taking inspiration from the Johns Hopkins University Center for Systems Science and Engineering data repository that consilidates information from multiple countries coming from sources like the WHO, the Centers for Disease Control and Prevention (CDC), and the Ministry of Health from multiple countries
 
-```markdown
-Syntax highlighted code block
+- Analyzed confirmed COVID-19 cases in China verus the rest of the world
+- Added a linear trend and logarithmic scale to measure how fast the number of cases is growing and assess how the signifcance of future problems will to be
+- Identified the countries that have been hit the hardest
 
-# Header 1
-## Header 2
-### Header 3
+# Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office
 
-- Bulleted
-- List
+## Analyszing the large number of movies and series available on the largest entertainment company by market capitalization; exploring the platform of over 200 million subscribers through the average duration of movies and guest stars from  2011 to 2020
 
-1. Numbered
-2. List
+- Created a datagrame from a dictionary
+- Conducted data manipulation and created a scatter plot to visualize movies by "year of release"
+- Performed an exploratory analysis
 
-**Bold** and _Italic_ and `Code` text
+# A-Visual-History-of-Nobel-Prize-Winners
 
-[Link](url) and ![Image](src)
-```
+## Understanding the influences on Nobel prize the determinants of Novel Prize winners from the start of the prize, in 1901, to 2016---from the time the prize was very Eurocentric and male-focused versus the status in the present day
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/t-mapa/Toby_Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Used line plot to zero in on USA dominance
+- Exploring initial imbalance of men versus women and its status within specific prize categories (e.g. physics, medicine, literature)
+- Used linear regression model to understand at what age the prize is usually received within each category and who the oldest and youngest winners are
