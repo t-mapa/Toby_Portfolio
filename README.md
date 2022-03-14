@@ -8,7 +8,7 @@
 - Created Plotly Dash dashboard
 - Conducted predictive analysis (classification)
 
-# [Visualizing-COVID-19](https://github.com/t-mapa/Visualizing-COVID-19)
+# [Visualizing COVID 19](https://github.com/t-mapa/Visualizing-COVID-19)
 
 ### Visualizing COVID-19 data from the first several weeks of the outbreak to see at what point the virus became a global pandemic; studying how country-wide policies (e.g. shutdowns and quarantines) affect the virus, taking inspiration from the Johns Hopkins University Center for Systems Science and Engineering data repository that consilidates information from multiple countries coming from sources like the WHO, the Centers for Disease Control and Prevention (CDC), and the Ministry of Health from multiple countries.
 
@@ -16,7 +16,7 @@
 - Added a linear trend and logarithmic scale to measure how fast the number of cases is growing and assess how the signifcance of future problems will to be
 - Identified the countries that have been hit the hardest
 
-# [Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office](https://github.com/t-mapa/Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office)
+# [Investigating Netflix Movies and Guest Stars in The-Office](https://github.com/t-mapa/Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office)
 
 ### Analyzing the large number of movies and series available on the largest entertainment company by market capitalization; exploring the platform of over 200 million subscribers through the average duration of movies and guest stars from  2011 to 2020.
 
@@ -24,7 +24,7 @@
 - Conducted data manipulation and created a scatter plot to visualize movies by "year of release"
 - Performed an exploratory analysis
 
-# [A-Visual-History-of-Nobel-Prize-Winners](https://github.com/t-mapa/A-Visual-History-of-Nobel-Prize-Winners)
+# [A Visual History of Nobel Prize Winners](https://github.com/t-mapa/A-Visual-History-of-Nobel-Prize-Winners)
 
 ### Understanding the influences on Nobel prize the determinants of Novel Prize winners from the start of the prize, in 1901, to 2016---from the time the prize was very Eurocentric and male-focused versus the status in the present day.
 
@@ -32,7 +32,7 @@
 - Exploring initial imbalance of men versus women and its status within specific prize categories (e.g. physics, medicine, literature)
 - Used linear regression model to understand at what age the prize is usually received within each category and who the oldest and youngest winners are
 
-# [The-GitHub-History-of-the-Scala-Language](https://github.com/t-mapa/The-GitHub-History-of-the-Scala-Language)
+# [The GitHub History of the Scala Language](https://github.com/t-mapa/The-GitHub-History-of-the-Scala-Language)
 
 ### Reading in, cleaning up, and visualizing the real world project repository of Scala--one of the most promiminent programming languages for Data Scientists--that spans data from a version control system (Git) as well as a project hosting site (GitHub). We will find out who has had the most influence on its development and who are the experts.
 
@@ -42,7 +42,7 @@
 - Calculated the number of pull requests submitted each (calendar) month during the project's lifetime; plotted these numbers to see the trend of contributions
 - Plotted a chart of the project's activity to explore the evolution of the number of contributions up to the January 2018 (when the data used for this project was collected); plotted a histogram of the number of pull requests submitted by each user to evaluate the dynamics of the community; plotted bar chart that measures experience of developers with code by the number of pull requests submitted that affect that file and how recent those pull requests were submitted
 
-# [The-Android-App-Market-on-Google-Play](https://github.com/t-mapa/The-Android-App-Market-on-Google-Play)
+# [The Android App Market on Google Play](https://github.com/t-mapa/The-Android-App-Market-on-Google-Play)
 
 ### Conducting a comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories. We'll look for insights in the data to devise strategies to drive growth and retention.
 
