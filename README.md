@@ -10,7 +10,7 @@
 
 # [Visualizing-COVID-19](https://github.com/t-mapa/Visualizing-COVID-19)
 
-### Visualizing COVID-19 data from the first several weeks of the outbreak to see at what point the virus became a global pandemic; studying how country-wide policies (e.g. shutdowns and quarantines) affect the virus, taking inspiration from the Johns Hopkins University Center for Systems Science and Engineering data repository that consilidates information from multiple countries coming from sources like the WHO, the Centers for Disease Control and Prevention (CDC), and the Ministry of Health from multiple countries
+### Visualizing COVID-19 data from the first several weeks of the outbreak to see at what point the virus became a global pandemic; studying how country-wide policies (e.g. shutdowns and quarantines) affect the virus, taking inspiration from the Johns Hopkins University Center for Systems Science and Engineering data repository that consilidates information from multiple countries coming from sources like the WHO, the Centers for Disease Control and Prevention (CDC), and the Ministry of Health from multiple countries.
 
 - Analyzed confirmed COVID-19 cases in China verus the rest of the world
 - Added a linear trend and logarithmic scale to measure how fast the number of cases is growing and assess how the signifcance of future problems will to be
@@ -18,7 +18,7 @@
 
 # [Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office](https://github.com/t-mapa/Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office)
 
-### Analyzing the large number of movies and series available on the largest entertainment company by market capitalization; exploring the platform of over 200 million subscribers through the average duration of movies and guest stars from  2011 to 2020
+### Analyzing the large number of movies and series available on the largest entertainment company by market capitalization; exploring the platform of over 200 million subscribers through the average duration of movies and guest stars from  2011 to 2020.
 
 - Created a datagrame from a dictionary
 - Conducted data manipulation and created a scatter plot to visualize movies by "year of release"
@@ -26,7 +26,7 @@
 
 # [A-Visual-History-of-Nobel-Prize-Winners](https://github.com/t-mapa/A-Visual-History-of-Nobel-Prize-Winners)
 
-### Understanding the influences on Nobel prize the determinants of Novel Prize winners from the start of the prize, in 1901, to 2016---from the time the prize was very Eurocentric and male-focused versus the status in the present day
+### Understanding the influences on Nobel prize the determinants of Novel Prize winners from the start of the prize, in 1901, to 2016---from the time the prize was very Eurocentric and male-focused versus the status in the present day.
 
 - Used line plot to zero in on USA dominance
 - Exploring initial imbalance of men versus women and its status within specific prize categories (e.g. physics, medicine, literature)
@@ -49,3 +49,11 @@
 - Explored which category has the highest share of (active) apps in the market, if any specific category is dominating the market, and which categories have the fewest number of apps; explored relation between app category and app price by looking at how companies and developers are supposed to make ends meet; what monetization strategies companies can use to maximize profit; and what costs of apps are largely based on features, complexity, and platform
 - Provided effective approach to come up with strategies to size and price our app by studying: the effect of the size of an app on its rating; users' perception about system-heavy apps vs. light-weighted apps; the effect of price of an app on its rating; users changes in preference when it comes to free vs. paid apps
 - Conducted sentiment analysis by plotting sentiment polarity scores of user reviews for paid and free apps
+
+# [Phyllotaxis](https://github.com/t-mapa/Phyllotaxis)
+
+### Drawing flowers using Math. Using R's graphical power to produce artistic images such as phyllotaxis--the arrangement of leaves on a plant stem.
+
+- Drew 50 points on a circle of radius 1 using the Pythagorean trigonometric identity which states that sin²(θ) + cos²(θ) = 1 for any real number θ
+- Arranged points in a spiral by multiplying x and y by a factor which increases for each point, through the use of the Golden Angle
+- Modified color, transparency, size, and angle of the points to make the image more appealing
